@@ -1,9 +1,14 @@
-function App() {
+import React from 'react'
+import NavBar from './components/NavBar';
+import CardList from './components/CardList';
+
+const App = () => {
   return (
-    <div>
-      <h1>Test</h1>
-    </div>
-  );
+    <>
+      <NavBar />
+      <CardList />
+    </>
+  )
 }
 
 export default App;

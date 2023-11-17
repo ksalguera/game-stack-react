@@ -1,0 +1,13 @@
+body {
+  background-color: #04121E;
+  font-family: 'Roboto', sans-serif;
+  color: white; 
+}
+
+#title {
+  width: 100%;
+  text-align: left;
+  font-size: xx-large;
+  font-family: 'Bowlby One SC', cursive;
+  margin: 20px;
+}
