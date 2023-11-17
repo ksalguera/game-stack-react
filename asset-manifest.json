@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/game-stack-react/static/css/main.5baad717.css",
+    "main.js": "/game-stack-react/static/js/main.ccef3349.js",
+    "index.html": "/game-stack-react/index.html",
+    "main.5baad717.css.map": "/game-stack-react/static/css/main.5baad717.css.map",
+    "main.ccef3349.js.map": "/game-stack-react/static/js/main.ccef3349.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5baad717.css",
+    "static/js/main.ccef3349.js"
+  ]
+}
